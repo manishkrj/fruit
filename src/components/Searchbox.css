@@ -1,0 +1,27 @@
+.containerS{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.fixed{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #b3b3b3;
+
+}
+.searchbox{
+    color: #1d2129;
+    border: 1px solid #dddfe2;
+    height: 22px;
+    line-height: 16px;
+    vertical-align: middle;
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 3% 5%;
+    margin: 2%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.3s;
+}
