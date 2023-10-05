@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manishkrj/fruit.git/static/css/main.82128ece.css",
+    "main.js": "/manishkrj/fruit.git/static/js/main.693a28d5.js",
+    "static/js/787.dc6622d9.chunk.js": "/manishkrj/fruit.git/static/js/787.dc6622d9.chunk.js",
+    "static/media/bag.jpg": "/manishkrj/fruit.git/static/media/bag.a7d5611e55a19c1d697e.jpg",
+    "index.html": "/manishkrj/fruit.git/index.html",
+    "main.82128ece.css.map": "/manishkrj/fruit.git/static/css/main.82128ece.css.map",
+    "main.693a28d5.js.map": "/manishkrj/fruit.git/static/js/main.693a28d5.js.map",
+    "787.dc6622d9.chunk.js.map": "/manishkrj/fruit.git/static/js/787.dc6622d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82128ece.css",
+    "static/js/main.693a28d5.js"
+  ]
+}
