@@ -16,7 +16,7 @@ class App extends Component
         {name: 'Mango', price: 100, image: './images/mango.jpeg'},
         {name: 'Orange', price: 110, image: './images/orange.jpg'},
         {name: 'Apple', price: 120, image: './images/apple.jpg'},
-        {name: 'Berries',price: 130, image: './images/berries.jpg'},
+        {name: 'Raspberry',price: 130, image: './images/berries.jpg'},
         {name: 'Grapes', price: 140, image: './images/grape.jpg'},
         {name: 'Banana',price: 150, image: './images/banana.jpg'},
         {name: 'Grapes', price: 120, image: './images/grapes.jpg'},
